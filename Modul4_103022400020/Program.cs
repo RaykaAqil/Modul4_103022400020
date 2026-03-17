@@ -9,3 +9,5 @@ KodePaket.NamaPaket np2 = KodePaket.NamaPaket.Gaming;
 string kodePaket2 = KodePaket.getKodePaket(np2);
 Console.WriteLine("\nNama Paket : " + np2);
 Console.WriteLine("Kode Paket : " + kodePaket2);
+
+MesinKopi.trigger();
