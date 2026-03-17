@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Rayka\\source\\repos\\Modul4_103022400020\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F9FF3FC0-5FEF-40A4-9B25-14DADF0FDDEC}|Modul4_103022400020\\Modul4_103022400020.csproj|c:\\users\\rayka\\source\\repos\\modul4_103022400020\\modul4_103022400020\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F9FF3FC0-5FEF-40A4-9B25-14DADF0FDDEC}|Modul4_103022400020\\Modul4_103022400020.csproj|solutionrelative:modul4_103022400020\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EF5C13DE-3946-3368-2E30-4F3369E897E2}|Modul4_103022400020\\Modul4_103022400020.csproj|c:\\users\\rayka\\source\\repos\\modul4_103022400020\\modul4_103022400020\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF5C13DE-3946-3368-2E30-4F3369E897E2}|Modul4_103022400020\\Modul4_103022400020.csproj|solutionrelative:modul4_103022400020\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF5C13DE-3946-3368-2E30-4F3369E897E2}|Modul4_103022400020\\Modul4_103022400020.csproj|c:\\users\\rayka\\source\\repos\\modul4_103022400020\\modul4_103022400020\\kodepaket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF5C13DE-3946-3368-2E30-4F3369E897E2}|Modul4_103022400020\\Modul4_103022400020.csproj|solutionrelative:modul4_103022400020\\kodepaket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +18,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "KodePaket.cs",
+              "DocumentMoniker": "C:\\Users\\Rayka\\source\\repos\\Modul4_103022400020\\Modul4_103022400020\\KodePaket.cs",
+              "RelativeDocumentMoniker": "Modul4_103022400020\\KodePaket.cs",
+              "ToolTip": "C:\\Users\\Rayka\\source\\repos\\Modul4_103022400020\\Modul4_103022400020\\KodePaket.cs",
+              "RelativeToolTip": "Modul4_103022400020\\KodePaket.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T23:52:47.49Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +41,7 @@
               "RelativeDocumentMoniker": "Modul4_103022400020\\Program.cs",
               "ToolTip": "C:\\Users\\Rayka\\source\\repos\\Modul4_103022400020\\Modul4_103022400020\\Program.cs",
               "RelativeToolTip": "Modul4_103022400020\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-16T23:48:14.111Z",
               "EditorCaption": ""
